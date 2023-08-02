@@ -1,0 +1,51 @@
++++++++++++++++++++++++++++
+ID: G-7326
+Address: Warszawa,Wilanowska 5
+Floor: 4
+Age: 3
+Size: 55
+Rooms: 2
+Bathrooms: 1
+Contract Type: Sell
+Price: 14000
+Options: Hot/Cold Water, Furnished, Pool, 
+Owner Name: Some
+Owner Last Name: One
+Owner Email: gf@gmail.com
+Owner Phone: 432423
+Owner Address: some adress
+Owner Birthday: 4th of july
++++++++++++++++++++++++++++
+ID: F-7159
+Address: London
+Floor: 1
+Age: 10
+Size: 100
+Rooms: 4
+Bathrooms: 2
+Contract Type: Office
+Price: 14500
+Options: Security Desk, Air Condition, Internet, 
+Owner Name: Victor
+Owner Last Name: Shevchenko
+Owner Email: fhfhsh@gm.com
+Owner Phone: 432432
+Owner Address: London, some street
+Owner Birthday: 3th of may 1998
++++++++++++++++++++++++++++
+ID: A-5053
+Address: Warsawa,boxerska 5
+Floor: 11
+Age: 5
+Size: 44
+Rooms: 1
+Bathrooms: 1
+Contract Type: Rentall
+Price: 400
+Options: Hot/Cold Water, Furnished, Internet, Bath Tube, Elevator, Air Condition, Balcony, Security Desk, 
+Owner Name: Wolodymyr
+Owner Last Name: Zawadski
+Owner Email: some@gmail.com
+Owner Phone: 42341
+Owner Address: Warsawa, Mozarta7
+Owner Birthday: 5th of february,1987
